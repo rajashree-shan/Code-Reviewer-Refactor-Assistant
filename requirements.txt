@@ -1,0 +1,9 @@
+gradio
+openai
+faiss-cpu
+sentence-transformers
+numpy
+pytest
+PyGithub
+python-dotenv
+requests
